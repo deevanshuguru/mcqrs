@@ -1,0 +1,35 @@
+{
+  "name": "mcqrs",
+  "version": "1.0.0",
+  "description": "Easy-To-Transfer Web/Terminal Application to share data over devices connected via same local area network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No Test Command\" && return 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deevanshuguru/mcqrs.git"
+  },
+  "keywords": [
+    "qr",
+    "transfer",
+    "lan",
+    "receive",
+    "copy",
+    "share",
+    "sharing"
+  ],
+  "author": "magmacray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deevanshuguru/mcqrs/issues"
+  },
+  "homepage": "https://github.com/deevanshuguru/mcqrs#readme",
+  "dependencies": {
+    "commander": "^8.1.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "envinfo": "^7.8.1"
+  }
+}
